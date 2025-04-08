@@ -1,0 +1,11 @@
+/budgetbridge
+    /index.html          # Main webpage
+    /about.html          # About page (if you have one)
+    /contact.html        # Contact page (if you have one)
+    /styles.css          # Main stylesheet
+    /script.js           # JavaScript for interactivity
+    /images/             # Folder for images
+        logo.png         # Example logo image
+        background.jpg   # Example background image
+    /pdfs/               # Folder for downloadable PDFs
+        tips.pdf         # Example downloadable PDF
