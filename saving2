@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Budget Bridge - Money Saving Tips</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Welcome to Budget Bridge!</h1>
+            <p>Your go-to place for smart money-saving tips and budgeting tools.</p>
+        </div>
+    </header>
+
+    <section class="signup">
+        <div class="container">
+            <h2>Sign Up for Our Free 10 Money-Saving Tips!</h2>
+            <form id="signup-form">
+                <input type="email" id="email" placeholder="Enter your email" required>
+                <button type="submit">Get Tips</button>
+            </form>
+            <p>Sign up to receive the tips and start saving today!</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Budget Bridge | All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
